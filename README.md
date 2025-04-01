@@ -29,16 +29,17 @@
 - `terminal_history.txt` – история команд в терминале Ubuntu
 - `Task_6.PNG` – диаграмма классов
 - `README.md` – описание проекта
-
+- `java_project.zip` — реализация классов и консольной программы на Java  
 ---
 
 ## 💻 Используемые технологии:
-- Linux (Ubuntu)
-- Bash
-- MySQL 9.2
-- MySQL Workbench
-- VirtualBox
-
+- Linux (Ubuntu)  
+- Bash  
+- MySQL 9.2  
+- MySQL Workbench  
+- Java  
+- Visual Studio Code  
+- VirtualBox  
 ---
 
 ## Автор:  

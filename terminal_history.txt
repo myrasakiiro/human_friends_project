@@ -1,0 +1,24 @@
+root@myra-VirtualBox:/home/myra# history
+    1  history -w
+    2  history -w
+    3  cd ~
+    4  mkdir human_friends_project
+    5  cd human_friends_project
+    6  cat > home_animals.txt
+    7  cat > pack_animals.txt
+    8  cat home_animals.txt pack_animals.txt > animals.txt
+    9  cat animals.txt
+   10  mv animals.txt human_friends.txt
+   11  mkdir storage
+   12  mv human_friends.txt storage/
+   13  ls storage
+   14  sudo apt update
+   15  sudo apt install mysql-client
+   16  mysql --version
+   17  wget http://ftp.us.debian.org/debian/pool/main/s/sl/sl_5.02-1_amd64.deb
+   18  sudo dpkg -i sl_5.02-1_amd64.deb
+   19  sl
+   20  sudo dpkg -r sl
+   21  history > terminal_history.txt
+   22  ls
+   23  cat terminal_history.txt
